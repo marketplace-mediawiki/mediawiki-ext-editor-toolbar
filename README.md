@@ -1,8 +1,8 @@
-# Information / Информация
+# Information
 
 Интеграция дополнительных панелей в редактор.
 
-## Install / Установка
+## Install
 
 1. Загрузите папки и файлы в директорию `extensions/MW_EXT_EditorToolbar`.
 2. В самый низ файла `LocalSettings.php` добавьте строку:
@@ -11,12 +11,12 @@
 wfLoadExtension( 'MW_EXT_EditorToolbar' );
 ```
 
-## Syntax / Синтаксис
+## Syntax
 
 ```html
 
 ```
 
-## Donations / Пожертвования
+## Donations
 
 - [Donation Form](https://donation-form.github.io/)
